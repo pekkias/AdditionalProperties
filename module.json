@@ -1,0 +1,12 @@
+{
+"id": "additionalproperties", 
+"title": "Additional Properties",
+"description": "Adds properties",
+"version": "0.1", 
+"author": "pekkias", 
+"systems": ["dragonbane"], 
+"styles": [], 
+"scripts": ["additionalProperties.js"], 
+"manifest": "https://raw.githubusercontent.com/pekkias/AdditionalProperties/main/module.json", 
+"download": "https://github.com/pekkias/AdditionalProperties/archive/main.zip"
+}
